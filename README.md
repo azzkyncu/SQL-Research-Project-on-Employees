@@ -29,9 +29,7 @@ In this section, we ansered to the following questions. See answers for each ind
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-Table 
 
-Histogram 
 
 
 
